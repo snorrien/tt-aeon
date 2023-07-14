@@ -53,7 +53,7 @@ img {
     height: 686px;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url("./img/Group-2.png");
+    background-image: url("./img/Group_2.png");
 }
 
 .header__languages {
@@ -378,7 +378,7 @@ img {
         height: auto;
         background-repeat: no-repeat;
         background-position: center top 0;
-        background-image: url("./img/Group-1.png");
+        background-image: url("./img/Group_1.png");
     }
 
     .header__container {
